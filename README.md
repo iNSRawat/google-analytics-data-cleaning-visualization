@@ -51,16 +51,6 @@ This repository contains the Data Cleaning & Visualization project (Google Analy
     └── sql_queries/
         └── analysis_queries.sql            # SQL analysis queries (10 queries)
 ```
-âÂř README.md
-âÂř data_cleaning_analysis.py
-âÂš data_cleaning_analysis.ipynb
-âÂâ  data/
-âÂə   âÂ­ raw/
-âÂə   âÂ­âÂə google_analytics_export.csv (85 MB)
-âÂə   âÂ­ processed/
-âÂə   âÂ­âÂə cleaned_data.csv
-âÂə   âÂ­âÂə data_quality_report.csv
-âÂɗ outputs/
     âÂ­ dashboards/
     âÂ­âÂə analytics_dashboard.twbx
     âÂ­âÂ­ sql_queries/
